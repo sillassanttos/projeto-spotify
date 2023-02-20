@@ -76,6 +76,10 @@ nav.navbar-transparente {
   color: #000;
 }
 
+.carousel-control-next, .carousel-control-prev {
+  width: 5%;
+}
+
 
 /* Estrutura de conteúdos
 -----------------------------------------------*/
@@ -174,6 +178,7 @@ h3 {
 @media (max-width: 575.98px) {
   .btn-roxo {
     margin: 10px 15px;
+    font-size: 1em;
   }
 }
 
